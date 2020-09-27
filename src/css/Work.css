@@ -1,0 +1,61 @@
+.exp {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+
+.title {
+    margin: 10px 10px 10px 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 2px solid #FF6699;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    color: #0F0F0F;
+    float: left;
+}
+
+h3 {
+    position: absolute;
+    margin: 10px 0 30px 200px;
+    float: left;
+    font-size: 22px;
+    padding-left: 200px;
+    background: transparent;
+}
+
+.comp {
+    margin: 10px 0 10px 200px;
+    float: left;
+    padding-left: 200px;
+    color: #6E7881;
+}
+
+span {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 100%;
+    background: transparent;
+}
+
+.comp a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0 0 10px 0;
+    color: #FF6699;
+    text-decoration: none;
+}
+
+.comp a:hover {
+    color: #313131;
+}
+
+.role {
+    margin: 10px 0 30px 200px;
+    float: left;
+    line-height: 40px;
+    padding-left: 200px;
+    color: #6E7881;
+}

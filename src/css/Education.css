@@ -1,0 +1,63 @@
+.edu {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+
+.title1 {
+    margin: 10px 10px 10px 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 2px solid #FF6699;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    color: #0F0F0F;
+    float: left;
+}
+
+.head {
+    margin: 10px 0 30px 200px;
+    font-size: 22px;
+    font-weight: bolder;
+    padding-left: 200px;
+    background: transparent;
+}
+
+.head1 {
+    margin: 10px 0 30px 200px;
+    font-size: 22px;
+    font-weight: bolder;
+    float: left;
+    padding-left: 200px;
+    background: transparent;
+}
+.univ {
+    margin: 10px 0 10px 200px;
+    float: left;
+    padding-left: 200px;
+    color: #6E7881;
+}
+
+.univ a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    margin: 10px 0 10px 0;
+    color: #FF6699;
+    text-decoration: none;
+}
+
+.univ a:hover {
+    color: #313131;
+}
+
+.course {
+    margin: 10px 0 30px 200px;
+    float: left;
+    line-height: 40px;
+    width: 80%;
+    white-space: pre-wrap;
+    padding-left: 200px;
+    color: #6E7881;
+}
