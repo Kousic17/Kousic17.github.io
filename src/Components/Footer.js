@@ -106,5 +106,5 @@ class Footer extends Component {
 
 export default GoogleApiWrapper({
     apiKey: API_KEY,
-    version: 3.36
+    version: 3.41
 })(Footer);
