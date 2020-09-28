@@ -44,7 +44,7 @@ class Skills extends Component {
                     <h3 style={{position: "relative"}}>Technical Skills</h3> 
                     <Pie 
                         data={state}
-                        height="50%"
+                        height={50}
                         options={{
                             legend: {
                                 display: true,
